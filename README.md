@@ -8,7 +8,7 @@ React, Express, TailwindCSS
 
 ## Getting Started
 [Trello Board](https://trello.com/b/HEFu5tIW/gasei-project-3)
-
+[Backend Repo](https://github.com/itsIpN/project-3-backend)
 
 ## Getting Started
 
