@@ -11,7 +11,7 @@ React, Express, TailwindCSS, FullCalendar, DataTables
 - [Backend Repo](https://github.com/itsIpN/project-3-backend)
 
 ## Getting Started
-
+- [Click here](https://react-shelf-life-frontend.netlify.app/) for the demo
 
 
 ## Unsolved Problems
